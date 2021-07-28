@@ -1,4 +1,4 @@
-# 11MK5 
+# Python Fundamentals
 
 ## Description
 This repository is for Jupyter Notebook pages I used to teach Python Fundamentals at Tribe of AI.
